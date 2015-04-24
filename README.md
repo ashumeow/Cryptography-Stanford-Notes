@@ -1,4 +1,4 @@
 Cryptography-Stanford-Notes
 ===========================
 
-Notes and exercices from the Cryptography class on Coursera
+Notes from the Cryptography class on Coursera
